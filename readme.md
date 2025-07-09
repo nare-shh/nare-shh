@@ -4,12 +4,12 @@
   <a href="https://github.com/nare-shh">GitHub</a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+LLMs%2C+RAG%2C+Agents;Full+Stack+ML+Systems+Builder;Obsessed+with+Automation+%26+Scaling+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+LLMs%2C+RAG%2C+Agents;ML+Systems+Builder;Obsessed+with+Automation+%26+Scaling+AI" alt="Typing SVG" />
 </p>
 
 ---
 
-###  AI Engineer | LLMs, RAG, Agents | Full Stack ML Systems
+###  AI Engineer | LLMs, RAG, Agents | ML Systems
 
 I'm Naresh, an AI Engineer passionate about building **production-grade intelligent systems** using cutting-edge tools like **LLMs, RAG pipelines, LangChain, and AI agents**. I love building tools that scale, automate workflows, and deliver real value.
 
