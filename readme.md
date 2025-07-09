@@ -80,13 +80,4 @@ I'm Naresh, an AI Engineer passionate about building **production-grade intellig
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nare-shh&show_icons=true&theme=tokyonight" alt="Naresh's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nare-shh&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nare-shh&layout=compact&theme=tokyonight" />
-</p>
 
