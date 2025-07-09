@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naresh Shanmugam</h1>
+<h1 align="center">Hi , I'm Naresh Shanmugam</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/nare-shanmugam/">LinkedIn</a> • 
   <a href="https://github.com/nare-shh">GitHub</a>
@@ -9,22 +9,22 @@
 
 ---
 
-### 🚀 AI Engineer | LLMs, RAG, Agents | Full Stack ML Systems
+###  AI Engineer | LLMs, RAG, Agents | Full Stack ML Systems
 
 I'm Naresh, an AI Engineer passionate about building **production-grade intelligent systems** using cutting-edge tools like **LLMs, RAG pipelines, LangChain, and AI agents**. I love building tools that scale, automate workflows, and deliver real value.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-#### 🧑‍💻 Languages  
+####  Languages  
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-#### 🧠 ML / DL  
+####  ML / DL  
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3... (too long)" />
@@ -34,7 +34,7 @@ I'm Naresh, an AI Engineer passionate about building **production-grade intellig
   <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge" />
 </p>
 
-#### 🤖 LLMs & Agents  
+####  LLMs & Agents  
 <p>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/CrewAI-3E3E3E?style=for-the-badge" />
@@ -44,7 +44,7 @@ I'm Naresh, an AI Engineer passionate about building **production-grade intellig
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-#### 🧠 Vector DBs  
+####  Vector DBs  
 <p>
   <img src="https://img.shields.io/badge/FAISS-1F1F1F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pinecone-33AADD?style=for-the-badge" />
@@ -52,7 +52,7 @@ I'm Naresh, an AI Engineer passionate about building **production-grade intellig
   <img src="https://img.shields.io/badge/Chroma-FF1493?style=for-the-badge" />
 </p>
 
-#### 🌐 APIs / Backend  
+####  APIs / Backend  
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -61,7 +61,7 @@ I'm Naresh, an AI Engineer passionate about building **production-grade intellig
   <img src="https://img.shields.io/badge/SerpAPI-00BFA6?style=for-the-badge" />
 </p>
 
-#### ☁️ DevOps / Cloud  
+####  DevOps / Cloud  
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -69,7 +69,7 @@ I'm Naresh, an AI Engineer passionate about building **production-grade intellig
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-#### 🔧 Tools  
+####  Tools  
 <p>
   <img src="https://img.shields.io/badge/MLflow-1E88E5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
